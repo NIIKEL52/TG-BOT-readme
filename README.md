@@ -155,6 +155,6 @@ https://www.euronews.com/rss?format=mrss&level=theme&name=news
 
 ## Автор
 
-Demjan Andrejev
+Demjan Andrejev ja Denis Toom
 
 Учебный проект по автоматизации публикации новостей в Telegram с использованием Python и RSS-технологий.
